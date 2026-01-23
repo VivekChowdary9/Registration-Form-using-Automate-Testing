@@ -1,0 +1,6 @@
+com\frugaltesting\pages\RegistrationPage.class
+com\frugaltesting\utils\TestHelper.class
+com\frugaltesting\TestRunner.class
+com\frugaltesting\RegistrationTest.class
+com\frugaltesting\SimpleTest.class
+com\frugaltesting\StandaloneTest.class
